@@ -35,20 +35,20 @@ estate and create a seamless and immersive user experience across a range of And
 
 
 
-![image](https://github.com/Harshil-Ghadiya/MAD_Practical-9_21012021031/assets/122811629/dcd8c6aa-a39a-44e5-90ec-45a62309523a)
+[image](https://github.com/Harshil-Ghadiya/MAD_Practical-9_21012021031/assets/122811629/dcd8c6aa-a39a-44e5-90ec-45a62309523a)
 
 
 
 
 
-![image](https://github.com/Harshil-Ghadiya/MAD_Practical-9_21012021031/assets/122811629/50075ec4-0c42-42f2-a823-cfa6b25a0188)
+[image](https://github.com/Harshil-Ghadiya/MAD_Practical-9_21012021031/assets/122811629/50075ec4-0c42-42f2-a823-cfa6b25a0188)
 
 
 
 
 
 
-![dark theme anim](https://github.com/Harshil-Ghadiya/MAD_Practical-9_21012021031/assets/122811629/4ac16148-90aa-44dc-9974-ea00bfa8b309)
+[dark theme anim](https://github.com/Harshil-Ghadiya/MAD_Practical-9_21012021031/assets/122811629/4ac16148-90aa-44dc-9974-ea00bfa8b309)
 
 
 
